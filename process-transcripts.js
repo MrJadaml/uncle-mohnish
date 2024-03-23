@@ -1,60 +1,75 @@
-const natural = require('natural')
-const fs = require('fs')
+const fs = require('fs');
+const natural = require('natural');
+const nlp = require('compromise');
 
-const stopWords = new Set(natural.stopwords.words)
+const stopWords = new Set(natural.stopwords.words);
+
+// Tokenizer instances (reuse to avoid re-instantiation)
+const sentenceTokenizer = new natural.SentenceTokenizer();
+const wordTokenizer = new natural.WordTokenizer();
+
+function tokenizeAndClean(sentence) {
+    const tokens = wordTokenizer.tokenize(sentence);
+    return tokens.map(cleanToken).filter(Boolean).join(' ');
+}
+
+function cleanToken(token) {
+    if (token.match(/[a-zA-Z]+-[a-zA-Z]+/)) return token;
+
+    if (token.includes("'")) {
+        const parts = token.split(/'(?=[tsmd]|ll|re|ve|LL|RE|VE|TSMD|$)/i);
+        return parts.join('');
+    }
+
+    const lowercasedToken = token.toLowerCase();
+    return stopWords.has(lowercasedToken) ? null : lowercasedToken;
+}
+
+function normalizeContractions(text) {
+    let nextText = nlp(text).normalize({
+      possessives: false,
+      plurals: true,
+      contractions: true,
+      whitespace: true
+    }).out('text');
+
+    // Correcting misplaced possessive forms
+    nextText = nextText.replace(/(\b\w+) s /g, "$1's ");
+
+    return nextText
+}
 
 function preprocessText(text) {
-    const tokenizer = new natural.SentenceTokenizer()
-    const sentences = tokenizer.tokenize(text)
-    const lemmatizer = new natural.Lemmatizer()
-
-    // Tokenize each sentence and preprocess individual tokens
-    const preprocessedSentences = sentences.map(sentence => {
-        const tokens = new natural.WordTokenizer().tokenize(sentence)
-        const preprocessedTokens = tokens.map(token => {
-
-            // Preserve tokens with apostrophes or hyphens
-            if (token.match(/[a-zA-Z]+'[a-zA-Z]+/) || token.match(/[a-zA-Z]+-[a-zA-Z]+/)) {
-                return token
-            }
-
-            // Lemmatize tokens
-            const lemmatizedToken = lemmatizer.lemmatize(token.toLowerCase())
-
-            // Remove stopwords
-            if (!stopWords.has(lemmatizedToken)) {
-                return lemmatizedToken
-            }
-        }).filter(Boolean) // Filter out undefined tokens
-
-        // Reconstruct the preprocessed sentence
-        return preprocessedTokens.join(' ')
-    })
-
-    // Reconstruct the preprocessed text with sentence boundaries
-    return preprocessedSentences.join('\n')
+    const normalizedContractions = normalizeContractions(text)
+    const sentences = sentenceTokenizer.tokenize(normalizedContractions);
+    return sentences.map(tokenizeAndClean).join('\n');
 }
 
 function loadTextFromFile(filePath) {
-    return fs.readFileSync(filePath, 'utf-8')
+    return fs.promises.readFile(filePath, 'utf-8');
 }
 
-function main() {
-    const filePath = process.argv[2]
+function savePreprocessedText(outputPath, text) {
+    return fs.promises.writeFile(outputPath, text);
+}
+
+async function main() {
+    const filePath = process.argv[2];
 
     if (!filePath) {
-        console.error('Please provide the path to the input TXT file.')
-        process.exit(1)
+        console.error('Please provide the path to the input TXT file.');
+        return;
     }
 
-    const text = loadTextFromFile(filePath)
-    const preprocessedText = preprocessText(text)
-
-    // Write preprocessed text to a new file in the processed-docs directory
-    const outputPath = `processed-transcripts/${filePath.split('/').pop()}`
-
-    fs.writeFileSync(outputPath, preprocessedText)
-    console.log(`Preprocessed text saved to ${outputPath}`)
+    try {
+        const text = await loadTextFromFile(filePath);
+        const preprocessedText = preprocessText(text);
+        const outputPath = `knowledge/${filePath.split('/').pop()}`;
+        await savePreprocessedText(outputPath, preprocessedText);
+        console.log(`Preprocessed text saved to ${outputPath}`);
+    } catch (error) {
+        console.error('An error occurred:', error.message);
+    }
 }
 
 main();

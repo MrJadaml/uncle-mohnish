@@ -1,0 +1,160 @@
+{
+  "topics": [
+    {
+      "topic": "unit economics",
+      "definition": " the direct revenues and costs associated with a particular business model, expressed on a per-unit basis. It helps businesses understand the profitability of each unit sold or customer acquired, allowing for informed decision-making regarding pricing, scaling, and sustainability",
+    },
+    {
+      "topic": "case study",
+      "definition": ""in-depth examination of a specific subject or situation, often used to illustrate principles or lessons.,
+    },
+    {
+      "topic": "Capital Allocation",
+      "definition": "Strategies for deploying a company's financial resources."
+    },
+    {
+      "topic": "Margin of Safety",
+      "definition": "The principle of buying securities at a significant discount to their intrinsic value."
+    },
+    {
+      "topic": "Fixed Costs",
+      "definition": "Expenses that do not change with the level of production or sales."
+    },
+    {
+      "topic": "Capital Intensive Businesses",
+      "definition": "Industries that require large amounts of capital investment."
+    },
+    {
+      "topic": "Debt Cycle",
+      "definition": "The phases of expansion and contraction in the availability of credit in the economy."
+    },
+    {
+      "topic": "Value Investing",
+      "definition": "The methodology of selecting stocks that trade for less than their intrinsic values."
+    },
+    {
+      "topic": "Growth Investing",
+      "definition": "Investing in companies that exhibit signs of above-average growth."
+    },
+    {
+      "topic": "Dividend Investing",
+      "definition": "Focusing on companies that regularly return a portion of their profits to shareholders through dividends."
+    },
+    {
+      "topic": "Contrarian Investing",
+      "definition": "Investing strategy that goes against prevailing market trends."
+    },
+    {
+      "topic": "Real Estate Investing",
+      "definition": "Buying, owning, managing, rental and/or sale of real estate for profit."
+    },
+    {
+      "topic": "Commodity Investing",
+      "definition": "Investing in raw materials used in the production of goods and services."
+    },
+    {
+      "topic": "Index Fund Investing",
+      "definition": "Investing in funds that replicate the performance of a market index."
+    },
+    {
+      "topic": "Quantitative Investing",
+      "definition": "Using mathematical and algorithmic models for trading and investment decisions."
+    },
+    {
+      "topic": "Market Timing",
+      "definition": "Attempting to predict market movements to buy low and sell high."
+    },
+    {
+      "topic": "Behavioral Finance",
+      "definition": "Understanding how psychological influences and biases affect financial markets and investing behavior."
+    },
+    {
+      "topic": "Risk Management",
+      "definition": "Techniques used to manage and mitigate financial risk."
+    },
+    {
+      "topic": "Portfolio Diversification",
+      "definition": "Spreading investments across various financial instruments, industries, and other categories to reduce risk."
+    },
+    {
+      "topic": "Economic Moats",
+      "definition": "Competitive advantages that protect a company from competitors."
+    },
+    {
+      "topic": "Technical Analysis",
+      "definition": "Analyzing statistical trends gathered from trading activity, such as price movement and volume."
+    },
+    {
+      "topic": "Fundamental Analysis",
+      "definition": "Evaluating a security's intrinsic value by examining related economic, financial, and other qualitative and quantitative factors."
+    },
+    {
+      "topic": "Efficient Market Hypothesis (EMH)",
+      "definition": "The theory that all known information is already reflected in stock prices, making it impossible to consistently achieve higher returns."
+    },
+    {
+      "topic": "Corporate Governance",
+      "definition": "The system of rules, practices, and processes by which a company is directed and controlled."
+    },
+    {
+      "topic": "Sustainable and Responsible Investing (SRI)",
+      "definition": "Investing in companies that meet certain ethical, social, and governance (ESG) criteria."
+    },
+    {
+      "topic": "Leveraged and Inverse ETFs",
+      "definition": "ETFs that use financial derivatives and debt to amplify the returns of an underlying index."
+    },
+    {
+      "topic": "Mergers and Acquisitions (M&A)",
+      "definition": "Aspects of corporate strategy, corporate finance, and management dealing with the buying, selling, dividing, and combining of different companies and similar entities."
+    },
+    {
+      "topic": "Holding Strategy",
+      "definition": "A long-term investment approach focusing on retaining securities or assets for extended periods, emphasizing the benefits of compounding and market cycles over short-term fluctuations."
+    },
+    {
+      "topic": "Mistakes",
+      "definition": "Refers to common errors investors make, such as emotional decision-making, timing the market, or failing to research adequately."
+    },
+    {
+      "topic": "Moats",
+      "definition": "Economic moats refer to the sustainable competitive advantages that protect a company from its competitors."
+    },
+    {
+      "topic": "Cloning",
+      "definition": "The strategy of replicating the investment decisions of successful investors."
+    },
+    {
+      "topic": "Bubbles",
+      "definition": "Economic bubbles occur when the price of an asset significantly exceeds its intrinsic value, driven by exuberant market behavior."
+    },
+    {
+      "topic": "Multi-Baggers",
+      "definition": "Stocks that return multiple times their original investment, typically over a long period."
+    },
+    {
+      "topic": "Cycles",
+      "definition": "Refers to the cyclical nature of markets and economies, characterized by periods of expansion and contraction."
+    },
+    {
+      "topic": "Diversification",
+      "definition": "A risk management strategy involving the allocation of investments among various financial instruments, industries, and other categories."
+    },
+    {
+      "topic": "Concentration",
+      "definition": "The strategy of focusing investments in a smaller number of assets or sectors believed to offer the best return potential."
+    },
+    {
+      "topic": "Arbitrage",
+      "definition": "The practice of taking advantage of a price difference between two or more markets."
+    },
+    {
+      "topic": "High Uncertainty",
+      "definition": "Investing in environments or assets with significant unknowns or variables, which can affect anticipated outcomes."
+    },
+    {
+      "topic": "Discounted Cash Flow (DCF)",
+      "definition": "A valuation technique used to estimate the value of an investment based on its expected future cash flows, adjusted for the time value of money."
+    }
+  ]
+}
