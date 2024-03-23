@@ -1,0 +1,2802 @@
+{
+  "_metadata": {
+    "description": "Trade history data based on 13F filings, capturing investment activities over several years. Each entry details transactions within specific quarters, including company involvement and the nature of the stock transaction.",
+    "version": "1.0",
+    "creationDate": "2024-03-17",
+    "schema": {
+      "year": "Array of years, with each year containing objects for quarterly activities.",
+      "quarter": "Represents the specific quarter and year of the recorded activities.",
+      "activities": "Array of objects, each describing a specific investment activity within the quarter.",
+      "activityDetails": {
+        "transactionType": "Type of transaction performed (e.g., Add, Sell, Buy, Reduce).",
+        "companyName": "Full name of the company involved in the transaction.",
+        "stockTicker": "The stock ticker symbol for the company.",
+        "shares": "The total number of shares involved in the transaction, represented as an integer.",
+        "shareChangePercentage": "The percentage change in the number of shares, related to the transaction, represented as a float.",
+        "portfolioChangePercentage": "The impact of the transaction on the portfolio in percentage terms, represented as a float."
+      }
+    }
+  },
+  "2009": [
+    {
+      "quarter": "Q4 2009",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Fairfax Financial Holdings Ltd.",
+          "stockTicker": "FRFHF",
+          "shares": 11799,
+          "shareChangePercentage": 17.15,
+          "portfolioChangePercentage": 1.29
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 86566,
+          "shareChangePercentage": 5.3,
+          "portfolioChangePercentage": 0.39
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 43245,
+          "shareChangePercentage": 4.45,
+          "portfolioChangePercentage": 0.49
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "CapitalSource Inc.",
+          "stockTicker": "CSE",
+          "shares": 2818141,
+          "portfolioChangePercentage": 3.49
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Jefferies Financial Group Inc.",
+          "stockTicker": "JEF",
+          "shares": 238,
+          "shareChangePercentage": 0.03,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 1500,
+          "shareChangePercentage": 0.06,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 5000,
+          "shareChangePercentage": 0.37,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Interactive Brokers Group Inc.",
+          "stockTicker": "IBKR",
+          "shares": 900,
+          "shareChangePercentage": 0.95,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 14668,
+          "shareChangePercentage": 1.04,
+          "portfolioChangePercentage": 0.1
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 5000,
+          "shareChangePercentage": 1.54,
+          "portfolioChangePercentage": 0.1
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 104152,
+          "shareChangePercentage": 4.93,
+          "portfolioChangePercentage": 0.22
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Ternium S.A.",
+          "stockTicker": "TX",
+          "shares": 1126331,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 9.28
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2009",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 510954,
+          "shareChangePercentage": 110.78,
+          "portfolioChangePercentage": 4.76
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 110426,
+          "shareChangePercentage": 26.27,
+          "portfolioChangePercentage": 0.71
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 236099,
+          "shareChangePercentage": 11.11,
+          "portfolioChangePercentage": 0.82
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 4714,
+          "shareChangePercentage": 1.28,
+          "portfolioChangePercentage": 0.04
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 3300,
+          "shareChangePercentage": 1.03,
+          "portfolioChangePercentage": 0.07
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 12500,
+          "shareChangePercentage": 0.77,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Interactive Brokers Group Inc.",
+          "stockTicker": "IBKR",
+          "shares": 95004,
+          "portfolioChangePercentage": 0.58
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Jefferies Financial Group Inc.",
+          "stockTicker": "JEF",
+          "shares": 2660,
+          "shareChangePercentage": 0.34,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 7250,
+          "shareChangePercentage": 0.51,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 619634,
+          "shareChangePercentage": 22.68,
+          "portfolioChangePercentage": 1.29
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Ternium S.A.",
+          "stockTicker": "TX",
+          "shares": 657313,
+          "shareChangePercentage": 36.85,
+          "portfolioChangePercentage": 5.42
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2009",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Fairfax Financial Holdings Ltd.",
+          "stockTicker": "FRFHF",
+          "shares": 22780,
+          "shareChangePercentage": 49.49,
+          "portfolioChangePercentage": 2.42
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 181180,
+          "shareChangePercentage": 12.59,
+          "portfolioChangePercentage": 0.73
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 27200,
+          "shareChangePercentage": 9.24,
+          "portfolioChangePercentage": 0.67
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Jefferies Financial Group Inc.",
+          "stockTicker": "JEF",
+          "shares": 14500,
+          "shareChangePercentage": 1.86,
+          "portfolioChangePercentage": 0.13
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 2124668,
+          "portfolioChangePercentage": 7.22
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 420350,
+          "portfolioChangePercentage": 2.16
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Ternium S.A.",
+          "stockTicker": "TX",
+          "shares": 300,
+          "shareChangePercentage": 0.02,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 2625,
+          "shareChangePercentage": 0.18,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 1200,
+          "shareChangePercentage": 0.26,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 3500,
+          "shareChangePercentage": 0.26,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Teck Resources",
+          "stockTicker": "TECK",
+          "shares": 3000,
+          "shareChangePercentage": 0.3,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 1300,
+          "shareChangePercentage": 0.35,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Sears Holdings Corp.",
+          "stockTicker": "SHLDQ-OLD",
+          "shares": 69001,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 2.32
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Berkshire Hathaway CL A",
+          "stockTicker": "BRK.A",
+          "shares": 1,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.06
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2009",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 281700,
+          "shareChangePercentage": 2218.11,
+          "portfolioChangePercentage": 11.69
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 795723,
+          "shareChangePercentage": 123.67,
+          "portfolioChangePercentage": 4.25
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Teck Resources",
+          "stockTicker": "TECK",
+          "shares": 32200,
+          "shareChangePercentage": 3.29,
+          "portfolioChangePercentage": 0.13
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Jefferies Financial Group Inc.",
+          "stockTicker": "JEF",
+          "shares": 4800,
+          "shareChangePercentage": 0.62,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Ternium S.A.",
+          "stockTicker": "TX",
+          "shares": 5000,
+          "shareChangePercentage": 0.28,
+          "portfolioChangePercentage": 0.03
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 371001,
+          "portfolioChangePercentage": 3.89
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 4500,
+          "shareChangePercentage": 0.32,
+          "portfolioChangePercentage": 0.04
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 19000,
+          "shareChangePercentage": 0.69,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 8910,
+          "shareChangePercentage": 1.89,
+          "portfolioChangePercentage": 0.18
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Fairfax Financial Holdings Ltd.",
+          "stockTicker": "FRFHF",
+          "shares": 11969,
+          "shareChangePercentage": 20.64,
+          "portfolioChangePercentage": 2.29
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 382636,
+          "shareChangePercentage": 21.87,
+          "portfolioChangePercentage": 1.55
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Sears Holdings Corp.",
+          "stockTicker": "SHLDQ-OLD",
+          "shares": 351946,
+          "shareChangePercentage": 83.61,
+          "portfolioChangePercentage": 11.83
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL A",
+          "stockTicker": "BRK.A",
+          "shares": 15,
+          "shareChangePercentage": 93.75,
+          "portfolioChangePercentage": 0.9
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "CompuCredit Holdings Corp.",
+          "stockTicker": "CCRT",
+          "shares": 324152,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 1.29
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "CryptoLogic Ltd.",
+          "stockTicker": "CRYP-OLD",
+          "shares": 144695,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.24
+        }
+      ]
+    }
+  ],
+  "2010": [
+    {
+      "quarter": "Q4 2010",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 133544,
+          "shareChangePercentage": 167.44,
+          "portfolioChangePercentage": 4.4
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 9000,
+          "shareChangePercentage": 0.9,
+          "portfolioChangePercentage": 0.14
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Brookfield Infrastructure Partners",
+          "stockTicker": "BIP",
+          "shares": 2654640,
+          "portfolioChangePercentage": 11.39
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 133,
+          "shareChangePercentage": 0.01,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 1000,
+          "shareChangePercentage": 0.07,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 13000,
+          "shareChangePercentage": 0.65,
+          "portfolioChangePercentage": 0.03
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "International Coal Group Inc.",
+          "stockTicker": "ICO",
+          "shares": 58500,
+          "shareChangePercentage": 2.3,
+          "portfolioChangePercentage": 0.14
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 13057,
+          "shareChangePercentage": 3.39,
+          "portfolioChangePercentage": 0.12
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 26000,
+          "shareChangePercentage": 4.67,
+          "portfolioChangePercentage": 0.25
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 347911,
+          "shareChangePercentage": 20.23,
+          "portfolioChangePercentage": 2.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 1635009,
+          "shareChangePercentage": 43.4,
+          "portfolioChangePercentage": 3.95
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 715271,
+          "shareChangePercentage": 75.83,
+          "portfolioChangePercentage": 10.63
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Jefferies Financial Group Inc.",
+          "stockTicker": "JEF",
+          "shares": 749605,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 6.04
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2010",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 26000,
+          "shareChangePercentage": 4.9,
+          "portfolioChangePercentage": 0.2
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 10700,
+          "shareChangePercentage": 2.86,
+          "portfolioChangePercentage": 0.09
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "International Coal Group Inc.",
+          "stockTicker": "ICO",
+          "shares": 56000,
+          "shareChangePercentage": 2.25,
+          "portfolioChangePercentage": 0.1
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 79757,
+          "portfolioChangePercentage": 3.1
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Teck Resources",
+          "stockTicker": "TECK",
+          "shares": 5501,
+          "portfolioChangePercentage": 0.08
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 4000,
+          "shareChangePercentage": 0.2,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 33300,
+          "shareChangePercentage": 3.24,
+          "portfolioChangePercentage": 0.55
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 300,
+          "shareChangePercentage": 8.33,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 442377,
+          "shareChangePercentage": 10.51,
+          "portfolioChangePercentage": 0.92
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 179899,
+          "shareChangePercentage": 16.02,
+          "portfolioChangePercentage": 2.56
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Fairfax Financial Holdings Ltd.",
+          "stockTicker": "FRFHF",
+          "shares": 97106,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 13.54
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2010",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Fairfax Financial Holdings Ltd.",
+          "stockTicker": "FRFHF",
+          "shares": 16220,
+          "shareChangePercentage": 20.05,
+          "portfolioChangePercentage": 2.26
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 33345,
+          "shareChangePercentage": 3.35,
+          "portfolioChangePercentage": 0.36
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 100,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "CapitalSource Inc.",
+          "stockTicker": "CSE",
+          "shares": 140,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 100,
+          "shareChangePercentage": 0.02,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "International Coal Group Inc.",
+          "stockTicker": "ICO",
+          "shares": 26100,
+          "shareChangePercentage": 1.04,
+          "portfolioChangePercentage": 0.04
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Jefferies Financial Group Inc.",
+          "stockTicker": "JEF",
+          "shares": 41469,
+          "shareChangePercentage": 5.24,
+          "portfolioChangePercentage": 0.3
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 69780,
+          "shareChangePercentage": 5.85,
+          "portfolioChangePercentage": 0.77
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 1171575,
+          "shareChangePercentage": 21.77,
+          "portfolioChangePercentage": 2.1
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 316250,
+          "shareChangePercentage": 98.87,
+          "portfolioChangePercentage": 9.66
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Interactive Brokers Group Inc.",
+          "stockTicker": "IBKR",
+          "shares": 94104,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.46
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Teck Resources",
+          "stockTicker": "TECK",
+          "shares": 5501,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.07
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2010",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Fairfax Financial Holdings Ltd.",
+          "stockTicker": "FRFHF",
+          "shares": 275,
+          "shareChangePercentage": 0.34,
+          "portfolioChangePercentage": 0.03
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 100,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "International Coal Group Inc.",
+          "stockTicker": "ICO",
+          "shares": 2512570,
+          "portfolioChangePercentage": 3.45
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 101,
+          "shareChangePercentage": 0,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 49,
+          "shareChangePercentage": 0.02,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "CapitalSource Inc.",
+          "stockTicker": "CSE",
+          "shares": 5140,
+          "shareChangePercentage": 0.18,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 13000,
+          "shareChangePercentage": 0.24,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 5000,
+          "shareChangePercentage": 0.25,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 20610,
+          "shareChangePercentage": 2.03,
+          "portfolioChangePercentage": 0.25
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 206179,
+          "shareChangePercentage": 14.74,
+          "portfolioChangePercentage": 1.87
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Teck Resources",
+          "stockTicker": "TECK",
+          "shares": 1001000,
+          "shareChangePercentage": 99.45,
+          "portfolioChangePercentage": 12.74
+        }
+      ]
+    }
+  ],
+  "2011": [
+    {
+      "quarter": "Q4 2011",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 435474,
+          "shareChangePercentage": 4599.92,
+          "portfolioChangePercentage": 14.1
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 497503,
+          "shareChangePercentage": 36.65,
+          "portfolioChangePercentage": 1.9
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 161900,
+          "shareChangePercentage": 13.22,
+          "portfolioChangePercentage": 1.89
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 2267112,
+          "portfolioChangePercentage": 13
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "DIRECTV Group Inc.",
+          "stockTicker": "DTV",
+          "shares": 398341,
+          "portfolioChangePercentage": 7.23
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 506124,
+          "portfolioChangePercentage": 5.65
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "BRP Group Inc.",
+          "stockTicker": "BRP",
+          "shares": 15418,
+          "shareChangePercentage": 6.38,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "CapitalSource Inc.",
+          "stockTicker": "CSE",
+          "shares": 625000,
+          "shareChangePercentage": 22.22,
+          "portfolioChangePercentage": 1.78
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 75147,
+          "shareChangePercentage": 25.92,
+          "portfolioChangePercentage": 2.89
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 4917565,
+          "shareChangePercentage": 69.72,
+          "portfolioChangePercentage": 11.6
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 725511,
+          "shareChangePercentage": 70.58,
+          "portfolioChangePercentage": 3.5
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Brookfield Infrastructure Partners",
+          "stockTicker": "BIP",
+          "shares": 2651940,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 16.68
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 2359215,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 12.59
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 134347,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.23
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 13876,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.18
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 4301,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.13
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2011",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 850686,
+          "shareChangePercentage": 227.2,
+          "portfolioChangePercentage": 7.95
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 59098,
+          "shareChangePercentage": 25.6,
+          "portfolioChangePercentage": 2.17
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 7053551,
+          "portfolioChangePercentage": 16.73
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 51,
+          "shareChangePercentage": 0,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Brookfield Infrastructure Partners",
+          "stockTicker": "BIP",
+          "shares": 2700,
+          "shareChangePercentage": 0.1,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 400,
+          "shareChangePercentage": 4.05,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 198854,
+          "shareChangePercentage": 19.99,
+          "portfolioChangePercentage": 3.33
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 258474,
+          "shareChangePercentage": 20.09,
+          "portfolioChangePercentage": 1.08
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 3975,
+          "shareChangePercentage": 22.27,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 1101589,
+          "shareChangePercentage": 89.13,
+          "portfolioChangePercentage": 1.89
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 66400,
+          "shareChangePercentage": 93.92,
+          "portfolioChangePercentage": 2.01
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2011",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 6566,
+          "shareChangePercentage": 198.91,
+          "portfolioChangePercentage": 0.19
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 119971,
+          "shareChangePercentage": 108.21,
+          "portfolioChangePercentage": 5.83
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 6400,
+          "shareChangePercentage": 9.95,
+          "portfolioChangePercentage": 0.25
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "BRP Group Inc.",
+          "stockTicker": "BRP",
+          "shares": 241573,
+          "portfolioChangePercentage": 0.87
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 17850,
+          "portfolioChangePercentage": 0.29
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 182464,
+          "shareChangePercentage": 12.86,
+          "portfolioChangePercentage": 0.46
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "International Coal Group Inc.",
+          "stockTicker": "ICO",
+          "shares": 2483970,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 9.13
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 345186,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 4.16
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2011",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 2357,
+          "shareChangePercentage": 0.63,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Brookfield Office Properties",
+          "stockTicker": "BPO",
+          "shares": 133,
+          "shareChangePercentage": 0.01,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 9000,
+          "shareChangePercentage": 0.9,
+          "portfolioChangePercentage": 0.17
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 85105,
+          "shareChangePercentage": 6.21,
+          "portfolioChangePercentage": 0.5
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Air Transport Services Group Inc.",
+          "stockTicker": "ATSG",
+          "shares": 713601,
+          "shareChangePercentage": 33.47,
+          "portfolioChangePercentage": 1.96
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 185590,
+          "shareChangePercentage": 34.97,
+          "portfolioChangePercentage": 2.24
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 149000,
+          "shareChangePercentage": 69.85,
+          "portfolioChangePercentage": 5.54
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Harvest Natural Resources Inc.",
+          "stockTicker": "HNR",
+          "shares": 228005,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 3.39
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Teck Resources",
+          "stockTicker": "TECK",
+          "shares": 5501,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.1
+        }
+      ]
+    }
+  ],
+  "2012": [
+    {
+      "quarter": "Q4 2012",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 255181,
+          "shareChangePercentage": 13.87,
+          "portfolioChangePercentage": 0.82
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 860,
+          "shareChangePercentage": 5.77,
+          "portfolioChangePercentage": 0.9
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 2000,
+          "shareChangePercentage": 1.01,
+          "portfolioChangePercentage": 0.08
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 199900,
+          "shareChangePercentage": 8.75,
+          "portfolioChangePercentage": 1.81
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2012",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 9894,
+          "shareChangePercentage": 196.9,
+          "portfolioChangePercentage": 13.65
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 46650,
+          "shareChangePercentage": 2.09,
+          "portfolioChangePercentage": 0.39
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 510,
+          "shareChangePercentage": 0.03,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 307267,
+          "shareChangePercentage": 60.71,
+          "portfolioChangePercentage": 12.78
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2012",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 2237000,
+          "portfolioChangePercentage": 18.34
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 5025,
+          "portfolioChangePercentage": 7.77
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 2214460,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 15.34
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 793000,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 11.16
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "CapitalSource Inc.",
+          "stockTicker": "CSE",
+          "shares": 2162900,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 4.4
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 1964185,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.82
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2012",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 1301386,
+          "shareChangePercentage": 257.13,
+          "portfolioChangePercentage": 14.64
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 5366014,
+          "shareChangePercentage": 251.22,
+          "portfolioChangePercentage": 15.81
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 291344,
+          "shareChangePercentage": 135.64,
+          "portfolioChangePercentage": 11.16
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Potash Corp. of Saskatchewan Inc.",
+          "stockTicker": "POT",
+          "shares": 3000,
+          "shareChangePercentage": 0.38,
+          "portfolioChangePercentage": 0.04
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 14901,
+          "shareChangePercentage": 0.8,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Pinnacle Airlines Corp.",
+          "stockTicker": "PNCL",
+          "shares": 21717,
+          "shareChangePercentage": 1.09,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "CapitalSource Inc.",
+          "stockTicker": "CSE",
+          "shares": 25241,
+          "shareChangePercentage": 1.15,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Terex Corp.",
+          "stockTicker": "TEX",
+          "shares": 52652,
+          "shareChangePercentage": 2.32,
+          "portfolioChangePercentage": 0.36
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Wells Fargo",
+          "stockTicker": "WFC",
+          "shares": 1387001,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 16.23
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 444941,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 14.41
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "DIRECTV Group Inc.",
+          "stockTicker": "DTV",
+          "shares": 398341,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 7.23
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Cresud Inc.",
+          "stockTicker": "CRESY",
+          "shares": 302376,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 1.46
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "BRP Group Inc.",
+          "stockTicker": "BRP",
+          "shares": 226155,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.75
+        }
+      ]
+    }
+  ],
+  "2013": [
+    {
+      "quarter": "Q4 2013",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 1263296,
+          "shareChangePercentage": 24.92,
+          "portfolioChangePercentage": 5.03
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 101000,
+          "shareChangePercentage": 1.35,
+          "portfolioChangePercentage": 0.39
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 35000,
+          "shareChangePercentage": 24.67,
+          "portfolioChangePercentage": 1.53
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2013",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 2974719,
+          "shareChangePercentage": 141.97,
+          "portfolioChangePercentage": 11.75
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 269,
+          "shareChangePercentage": 1.68,
+          "portfolioChangePercentage": 0.34
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2013",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 291,
+          "shareChangePercentage": 1.85,
+          "portfolioChangePercentage": 0.44
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 247000,
+          "shareChangePercentage": 13.67,
+          "portfolioChangePercentage": 4.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 55000,
+          "shareChangePercentage": 27.94,
+          "portfolioChangePercentage": 3
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 2083750,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 18.91
+        }
+      ]
+    }
+  ],
+  "2014": [
+    {
+      "quarter": "Q4 2014",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 438827,
+          "shareChangePercentage": 2982.99,
+          "portfolioChangePercentage": 1.13
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Nexeo Solutions Inc.",
+          "stockTicker": "NXEO",
+          "shares": 204526,
+          "shareChangePercentage": 497.1,
+          "portfolioChangePercentage": 0.47
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 457,
+          "shareChangePercentage": 1.96,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 13908569,
+          "portfolioChangePercentage": 35.67
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Alphabet Inc. CL C",
+          "stockTicker": "GOOG",
+          "shares": 1380000,
+          "portfolioChangePercentage": 8.04
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 151000,
+          "shareChangePercentage": 10.63,
+          "portfolioChangePercentage": 1.81
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 1358000,
+          "shareChangePercentage": 30.15,
+          "portfolioChangePercentage": 5.38
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 630864,
+          "shareChangePercentage": 67.64,
+          "portfolioChangePercentage": 8.91
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2014",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Nexeo Solutions Inc.",
+          "stockTicker": "NXEO",
+          "shares": 41144,
+          "portfolioChangePercentage": 0.12
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 14711,
+          "portfolioChangePercentage": 0.05
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 45000,
+          "shareChangePercentage": 4.6,
+          "portfolioChangePercentage": 1.04
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 371000,
+          "shareChangePercentage": 7.61,
+          "portfolioChangePercentage": 1.93
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 3340,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 5.6
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Goldman Sachs Group",
+          "stockTicker": "GS",
+          "shares": 106863,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 4.83
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2014",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 977634,
+          "portfolioChangePercentage": 19.64
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 12973,
+          "shareChangePercentage": 79.53,
+          "portfolioChangePercentage": 21.75
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2014",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 7025,
+          "portfolioChangePercentage": 0.24
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 23305,
+          "portfolioChangePercentage": 0.22
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Chesapeake Energy",
+          "stockTicker": "CHK",
+          "shares": 28,
+          "shareChangePercentage": 0.17,
+          "portfolioChangePercentage": 0.04
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 140000,
+          "shareChangePercentage": 8.97,
+          "portfolioChangePercentage": 1.85
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 2526000,
+          "shareChangePercentage": 34.13,
+          "portfolioChangePercentage": 12.04
+        }
+      ]
+    }
+  ],
+  "2015": [
+    {
+      "quarter": "Q4 2015",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 87006,
+          "portfolioChangePercentage": 3.03
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 7000,
+          "shareChangePercentage": 0.05,
+          "portfolioChangePercentage": 0.03
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 4299,
+          "shareChangePercentage": 0.07,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Nexeo Solutions Inc.",
+          "stockTicker": "NXEO",
+          "shares": 62516,
+          "shareChangePercentage": 20.14,
+          "portfolioChangePercentage": 0.16
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 589914,
+          "shareChangePercentage": 39.72,
+          "portfolioChangePercentage": 1.59
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 982280,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 9.12
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2015",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 1770,
+          "shareChangePercentage": 0.03,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 5300,
+          "shareChangePercentage": 0.04,
+          "portfolioChangePercentage": 0.02
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2015",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Alphabet Inc. CL C",
+          "stockTicker": "GOOG",
+          "shares": 3760,
+          "shareChangePercentage": 0.27,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 100,
+          "shareChangePercentage": 0.01,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 1400,
+          "shareChangePercentage": 0.14,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 53000,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.65
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2015",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 1031650,
+          "shareChangePercentage": 227.47,
+          "portfolioChangePercentage": 2.58
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "POSCO",
+          "stockTicker": "PKX",
+          "shares": 681910,
+          "shareChangePercentage": 225.97,
+          "portfolioChangePercentage": 8.91
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Nexeo Solutions Inc.",
+          "stockTicker": "NXEO",
+          "shares": 64716,
+          "shareChangePercentage": 26.34,
+          "portfolioChangePercentage": 0.15
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 108349,
+          "shareChangePercentage": 0.78,
+          "portfolioChangePercentage": 0.42
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Citigroup Inc.",
+          "stockTicker": "C",
+          "shares": 1216000,
+          "shareChangePercentage": 95.82,
+          "portfolioChangePercentage": 14.91
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Bank of America Corp.",
+          "stockTicker": "BAC",
+          "shares": 3146000,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 12.47
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 7025,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.23
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "General Motors",
+          "stockTicker": "GM",
+          "shares": 23762,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.18
+        }
+      ]
+    }
+  ],
+  "2016": [
+    {
+      "quarter": "Q4 2016",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 47525,
+          "shareChangePercentage": 7.61,
+          "portfolioChangePercentage": 0.57
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 405610,
+          "shareChangePercentage": 6.78,
+          "portfolioChangePercentage": 2.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 1800000,
+          "shareChangePercentage": 13.07,
+          "portfolioChangePercentage": 4.73
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Ferrari NV",
+          "stockTicker": "RACE",
+          "shares": 277000,
+          "shareChangePercentage": 41.03,
+          "portfolioChangePercentage": 4.65
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Southwest Airlines",
+          "stockTicker": "LUV",
+          "shares": 211245,
+          "shareChangePercentage": 41.24,
+          "portfolioChangePercentage": 3.03
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 47400,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 2.03
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2016",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Southwest Airlines",
+          "stockTicker": "LUV",
+          "shares": 512220,
+          "portfolioChangePercentage": 5.89
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 13000,
+          "shareChangePercentage": 0.09,
+          "portfolioChangePercentage": 0.02
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 25100,
+          "shareChangePercentage": 34.62,
+          "portfolioChangePercentage": 1.07
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Ferrari NV",
+          "stockTicker": "RACE",
+          "shares": 393900,
+          "shareChangePercentage": 36.85,
+          "portfolioChangePercentage": 6.05
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2016",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 624160,
+          "portfolioChangePercentage": 7.08
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 6,
+          "shareChangePercentage": 0.01,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 1000,
+          "shareChangePercentage": 0.01,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 2001,
+          "shareChangePercentage": 0.03,
+          "portfolioChangePercentage": 0.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 1540,
+          "shareChangePercentage": 0.29,
+          "portfolioChangePercentage": 0.03
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Ferrari NV",
+          "stockTicker": "RACE",
+          "shares": 208154,
+          "shareChangePercentage": 16.3,
+          "portfolioChangePercentage": 2.86
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 990534,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 3.01
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Nexeo Solutions Inc.",
+          "stockTicker": "NXEO",
+          "shares": 35890,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.1
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2016",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Nexeo Solutions Inc. UN",
+          "stockTicker": "NXEOU",
+          "shares": 95160,
+          "shareChangePercentage": 10.63,
+          "portfolioChangePercentage": 0.29
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Ferrari NV",
+          "stockTicker": "RACE",
+          "shares": 1277192,
+          "portfolioChangePercentage": 15.39
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 530653,
+          "portfolioChangePercentage": 7.68
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 1990,
+          "shareChangePercentage": 0.01,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Berkshire Hathaway CL B",
+          "stockTicker": "BRK.B",
+          "shares": 14500,
+          "shareChangePercentage": 16.67,
+          "portfolioChangePercentage": 0.6
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Nexeo Solutions Inc.",
+          "stockTicker": "NXEO",
+          "shares": 211980,
+          "shareChangePercentage": 85.52,
+          "portfolioChangePercentage": 0.59
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Horsehead Holding Corp.",
+          "stockTicker": "ZINC",
+          "shares": 6333296,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 3.43
+        }
+      ]
+    }
+  ],
+  "2017": [
+    {
+      "quarter": "Q4 2017",
+      "activities": [
+        {
+          "transactionType": "Reduce",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 239439,
+          "shareChangePercentage": 22.87,
+          "portfolioChangePercentage": 3.26
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Alphabet Inc. CL C",
+          "stockTicker": "GOOG",
+          "shares": 408000,
+          "shareChangePercentage": 30.8,
+          "portfolioChangePercentage": 5.53
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2017",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 47225,
+          "shareChangePercentage": 4.72,
+          "portfolioChangePercentage": 0.58
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 6079051,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 26.13
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2017",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 180750,
+          "shareChangePercentage": 22.06,
+          "portfolioChangePercentage": 2.08
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 187180,
+          "shareChangePercentage": 1.45,
+          "portfolioChangePercentage": 0.49
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 25229,
+          "shareChangePercentage": 0.42,
+          "portfolioChangePercentage": 0.11
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 27002,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.3
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2017",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 147500,
+          "shareChangePercentage": 21.96,
+          "portfolioChangePercentage": 1.74
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "General Motors WTS B",
+          "stockTicker": "GM.WS.B",
+          "shares": 474985,
+          "shareChangePercentage": 8.51,
+          "portfolioChangePercentage": 2.18
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 950200,
+          "shareChangePercentage": 7.94,
+          "portfolioChangePercentage": 2.67
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Alphabet Inc. CL C",
+          "stockTicker": "GOOG",
+          "shares": 59200,
+          "shareChangePercentage": 4.28,
+          "portfolioChangePercentage": 0.63
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 502111,
+          "shareChangePercentage": 94.9,
+          "portfolioChangePercentage": 5.58
+        }
+      ]
+    }
+  ],
+  "2018": [
+    {
+      "quarter": "Q4 2018",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 546847,
+          "portfolioChangePercentage": 8.39
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 10920,
+          "shareChangePercentage": 0.08,
+          "portfolioChangePercentage": 0.08
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2018",
+      "activities": [
+        {
+          "transactionType": "Sell",
+          "companyName": "Ferrari NV",
+          "stockTicker": "RACE",
+          "shares": 398138,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 17.94
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2018",
+      "activities": [
+        {
+          "transactionType": "Sell",
+          "companyName": "Alphabet Inc. CL C",
+          "stockTicker": "GOOG",
+          "shares": 916560,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 12.43
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "AerCap Holdings N.V.",
+          "stockTicker": "AER",
+          "shares": 807721,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 11.01
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Southwest Airlines",
+          "stockTicker": "LUV",
+          "shares": 300975,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 5.11
+        }
+      ]
+    }
+  ],
+  "2019": [
+    {
+      "quarter": "Q4 2019",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 34141,
+          "shareChangePercentage": 1.9,
+          "portfolioChangePercentage": 0.68
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 506752,
+          "shareChangePercentage": 5.79,
+          "portfolioChangePercentage": 2.74
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "GrafTech International Ltd.",
+          "stockTicker": "EAF",
+          "shares": 1096967,
+          "shareChangePercentage": 19.78,
+          "portfolioChangePercentage": 4.7
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2019",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "GrafTech International Ltd.",
+          "stockTicker": "EAF",
+          "shares": 1423563,
+          "shareChangePercentage": 34.52,
+          "portfolioChangePercentage": 6.97
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 8190,
+          "shareChangePercentage": 0.46,
+          "portfolioChangePercentage": 0.13
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 4108584,
+          "shareChangePercentage": 31.93,
+          "portfolioChangePercentage": 20.36
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2019",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 86480,
+          "shareChangePercentage": 5.09,
+          "portfolioChangePercentage": 1.13
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "GrafTech International Ltd.",
+          "stockTicker": "EAF",
+          "shares": 4123538,
+          "portfolioChangePercentage": 16.12
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 239000,
+          "shareChangePercentage": 1.82,
+          "portfolioChangePercentage": 1.12
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2019",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 1152418,
+          "shareChangePercentage": 210.74,
+          "portfolioChangePercentage": 17.99
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 6657,
+          "shareChangePercentage": 0.05,
+          "portfolioChangePercentage": 0.04
+        }
+      ]
+    }
+  ],
+  "2020": [
+    {
+      "quarter": "Q4 2020",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 31,
+          "shareChangePercentage": 0,
+          "portfolioChangePercentage": 0
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2020",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 74,
+          "shareChangePercentage": 0,
+          "portfolioChangePercentage": 0
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2020",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 16049,
+          "shareChangePercentage": 0.89,
+          "portfolioChangePercentage": 0.56
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 4733118,
+          "portfolioChangePercentage": 36.52
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 680045,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 6.05
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2020",
+      "activities": [
+        {
+          "transactionType": "Reduce",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 23877,
+          "shareChangePercentage": 1.31,
+          "portfolioChangePercentage": 1.24
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Stellantis N.V.",
+          "stockTicker": "STLA",
+          "shares": 7570666,
+          "shareChangePercentage": 91.76,
+          "portfolioChangePercentage": 67.35
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "GrafTech International Ltd.",
+          "stockTicker": "EAF",
+          "shares": 4450134,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 19.07
+        }
+      ]
+    }
+  ],
+  "2021": [
+    {
+      "quarter": "Q4 2021",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 244662,
+          "shareChangePercentage": 15.49,
+          "portfolioChangePercentage": 10.52
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 1211000,
+          "shareChangePercentage": 25.59,
+          "portfolioChangePercentage": 7.42
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Alibaba Group Holdings",
+          "stockTicker": "BABA",
+          "shares": 57347,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 4.45
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2021",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 27150,
+          "shareChangePercentage": 1.75,
+          "portfolioChangePercentage": 1.01
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Alibaba Group Holdings",
+          "stockTicker": "BABA",
+          "shares": 201374,
+          "shareChangePercentage": 77.83,
+          "portfolioChangePercentage": 15.63
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2021",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Alibaba Group Holdings",
+          "stockTicker": "BABA",
+          "shares": 89878,
+          "shareChangePercentage": 53.23,
+          "portfolioChangePercentage": 7.34
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2021",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Alibaba Group Holdings",
+          "stockTicker": "BABA",
+          "shares": 168843,
+          "portfolioChangePercentage": 14.61
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 31,
+          "shareChangePercentage": 0,
+          "portfolioChangePercentage": 0
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 268322,
+          "shareChangePercentage": 14.74,
+          "portfolioChangePercentage": 9.03
+        }
+      ]
+    }
+  ],
+  "2022": [
+    {
+      "quarter": "Q4 2022",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Brookfield Corp.",
+          "stockTicker": "BN",
+          "shares": 532016,
+          "shareChangePercentage": 295.07,
+          "portfolioChangePercentage": 13.88
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 37000,
+          "shareChangePercentage": 2.03,
+          "portfolioChangePercentage": 1.53
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Brookfield Asset Management",
+          "stockTicker": "BAM",
+          "shares": 178077,
+          "portfolioChangePercentage": 4.23
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2022",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Brookfield Corp.",
+          "stockTicker": "BN",
+          "shares": 180303,
+          "portfolioChangePercentage": 7.46
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2022",
+      "activities": [
+        {
+          "transactionType": "Reduce",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 15076,
+          "shareChangePercentage": 81.71,
+          "portfolioChangePercentage": 0.09
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2022",
+      "activities": [
+        {
+          "transactionType": "Reduce",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 3503667,
+          "shareChangePercentage": 99.48,
+          "portfolioChangePercentage": 30.38
+        }
+      ]
+    }
+  ],
+  "2023": [
+    {
+      "quarter": "Q4 2023",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Arch Resources Inc.",
+          "stockTicker": "ARCH",
+          "shares": 156756,
+          "shareChangePercentage": 200.36,
+          "portfolioChangePercentage": 10.49
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Warrior Met Coal Inc.",
+          "stockTicker": "HCC",
+          "shares": 629712,
+          "portfolioChangePercentage": 15.47
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "CONSOL Energy Inc.",
+          "stockTicker": "CEIX",
+          "shares": 27563,
+          "shareChangePercentage": 6.95,
+          "portfolioChangePercentage": 1.12
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Alpha Metallurgical Resources Inc.",
+          "stockTicker": "AMR",
+          "shares": 47197,
+          "shareChangePercentage": 10.69,
+          "portfolioChangePercentage": 6.45
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2023",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "CONSOL Energy Inc.",
+          "stockTicker": "CEIX",
+          "shares": 193096,
+          "shareChangePercentage": 94.9,
+          "portfolioChangePercentage": 11.94
+        },
+        {
+          "transactionType": "Add",
+          "companyName": "Alpha Metallurgical Resources Inc.",
+          "stockTicker": "AMR",
+          "shares": 78861,
+          "shareChangePercentage": 21.75,
+          "portfolioChangePercentage": 12.07
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "Arch Resources Inc.",
+          "stockTicker": "ARCH",
+          "shares": 78238,
+          "portfolioChangePercentage": 7.87
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2023",
+      "activities": [
+        {
+          "transactionType": "Buy",
+          "companyName": "Alpha Metallurgical Resources Inc.",
+          "stockTicker": "AMR",
+          "shares": 362649,
+          "portfolioChangePercentage": 81.2
+        },
+        {
+          "transactionType": "Buy",
+          "companyName": "CONSOL Energy Inc.",
+          "stockTicker": "CEIX",
+          "shares": 203474,
+          "portfolioChangePercentage": 18.8
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 1592134,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 79.22
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Brookfield Corp.",
+          "stockTicker": "BN",
+          "shares": 772579,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 20.76
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Seritage Growth Properties",
+          "stockTicker": "SRG",
+          "shares": 3375,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 0.02
+        }
+      ]
+    },
+    {
+      "quarter": "Q1 2023",
+      "activities": [
+        {
+          "transactionType": "Add",
+          "companyName": "Brookfield Corp.",
+          "stockTicker": "BN",
+          "shares": 60260,
+          "shareChangePercentage": 8.46,
+          "portfolioChangePercentage": 1.62
+        },
+        {
+          "transactionType": "Reduce",
+          "companyName": "Micron Technology Inc.",
+          "stockTicker": "MU",
+          "shares": 268678,
+          "shareChangePercentage": 14.44,
+          "portfolioChangePercentage": 13.37
+        },
+        {
+          "transactionType": "Sell",
+          "companyName": "Brookfield Asset Management",
+          "stockTicker": "BAM",
+          "shares": 178077,
+          "shareChangePercentage": 100,
+          "portfolioChangePercentage": 4.23
+        }
+      ]
+    }
+  ]
+}

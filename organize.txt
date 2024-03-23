@@ -1,0 +1,63 @@
+categories: {
+  companies: [],
+  topics: [],
+  people: [],
+  emulations: 'saysings, quotes, affects, speach patterns, etc.'
+  mentalModels: 'mental models, mohnish\'s core tenets and principles. more concise than the full blobs. not necessarily things he has said/published.'
+  personality: 'how other describe him. Guy has a lot of excerpts describing him. evaluate transcripts to pull personality traits'
+}
+
+
+Data Processing Workflow
+
+1. Data Collection & Selection
+Objective: Consolidate all potential text sources (presentation transcripts, articles, books).
+Action Steps:
+- Gather all files in a single directory for ease of access.
+- Perform a preliminary review to exclude any files that are clearly irrelevant or of low quality.
+- Prioritize files based on their relevance to value investing principles and the clarity of insights related to investment analysis.
+
+2. Data Cleaning & Preprocessing
+Objective: Standardize and clean your dataset to improve the quality of your training data.
+Action Steps:
+- Pull out names, terms, acronymns, etc,
+  - look for upper case words with a space before them.
+  - remove duplicates
+  - remove any names that are not relevant
+  - use list as white list for future processing
+- Text Standardization: Convert all text to a uniform encoding (e.g., UTF-8) and case (lowercase for consistency).
+- Removal of Irrelevant Content: Manually or semi-automatically remove irrelevant sections such as acknowledgments in books, or off-topic conversations in transcripts.
+- Correction of Typos and Grammatical Errors: Use automated tools like Grammarly or LanguageTool, understanding that manual review might still be necessary for context-specific corrections.
+- Punctuation and Formatting: Standardize punctuation and remove odd formatting. Tools like Pandas (for Python) can help automate some of these tasks.
+- Splitting Data: Consider splitting large texts (like books) into chapters or sections to facilitate more manageable processing and to help the model learn from smaller, focused contexts.
+
+3. Data Annotation & Structuring
+Objective: Annotate your data to highlight investment principles, analysis techniques, and other relevant information.
+Action Steps:
+- Annotate sections of texts with tags (e.g., value_investing_principle, company_analysis, market_trends) to facilitate targeted learning by the model.
+- Use a consistent schema for annotation to maintain uniformity across the dataset.
+
+example:
+{
+  "text": "I told Hayder “I visited about 60 Turkish companies with you so far, and what I decided in Turkey was that in all of the markets I have to make a compromise. Like in India, for example, if I look at a truly great business with truly exceptional management, with great corporate governance, the price to earnings for sure will be nosebleed. If I get all those three things, I have to pay a lot. If I want to pay something resembling a normal multiple, then I have to compromise. I have to compromise either on business quality or management quality or governance quality, something or the other I have to play with to try to make the numbers work. But in Turkey, because there is all this madness going on, I just do one very simple filter; the highest quality business and the highest quality management, whatever the price is, I will buy it. If you see a business price to earnings of 3 and you see a business of price to earnings of 2, and the price to earnings of 3 business has better management go for the business of price to earnings of three. He still goes for the 2 and I am still working on it. Now he is willing to go to 2.5. Eventually, we will get there with him.",
+  "annotations": [
+    {
+      "start": 120,
+      "end": 684,
+      "label": "value_investing_principle",
+      "comment": "Discussing the necessity of compromises in value investing based on market conditions."
+    },
+    {
+      "start": 224,
+      "end": 433,
+      "label": "market_trends",
+      "comment": "Highlighting the trend of high prices for companies with exceptional management and governance in India."
+    },
+    {
+      "start": 435,
+      "end": 684,
+      "label": "company_analysis",
+      "comment": "Analyzing the strategy of selecting companies based on the quality of business and management over the price to earnings ratio in Turkey."
+    }
+  ]
+}

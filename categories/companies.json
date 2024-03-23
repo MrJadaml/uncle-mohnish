@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Fairfax Financial Holdings Ltd.",
+    "ticker": "FRFHF",
+    "sector": "financials"
+  },
+  {
+    "name": "Cresud Inc.",
+    "ticker": "CRESY",
+    "sector": "consumer staples"
+  },
+  {
+    "name": "Potash Corp. of Saskatchewan Inc.",
+    "ticker": "POT",
+    "sector": "materials"
+  },
+  {
+    "name": "CapitalSource Inc.",
+    "ticker": "CSE",
+    "sector": "financials"
+  },
+  {
+    "name": "Jefferies Financial Group Inc.",
+    "ticker": "JEF",
+    "sector": "financials"
+  },
+  {
+    "name": "Brookfield Office Properties",
+    "ticker": "BPO",
+    "sector": "real estate"
+  },
+  {
+    "name": "Horsehead Holding Corp.",
+    "ticker": "ZINC",
+    "sector": "materials"
+  },
+  {
+    "name": "Interactive Brokers Group Inc.",
+    "ticker": "IBKR",
+    "sector": "financials"
+  },
+  {
+    "name": "POSCO",
+    "ticker": "PKX",
+    "sector": "materials"
+  },
+  {
+    "name": "Wells Fargo",
+    "ticker": "WFC",
+    "sector": "financials"
+  },
+  {
+    "name": "Pinnacle Airlines Corp.",
+    "ticker": "PNCL",
+    "sector": "industrials"
+  },
+  {
+    "name": "Ternium S.A.",
+    "ticker": "TX",
+    "sector": "materials"
+  },
+  {
+    "name": "Micron Technology Inc.",
+    "ticker": "MU",
+    "sector": "technology"
+  },
+  {
+    "name": "Seritage Growth Properties",
+    "ticker": "SRG",
+    "sector": "real estate"
+  },
+  {
+    "name": "Brookfield Corp.",
+    "ticker": "BN",
+    "sector": "financials"
+  },
+  {
+    "name": "Arch Resources Inc.",
+    "ticker": "ARCH",
+    "sector": "energy"
+  },
+  {
+    "name": "Warrior Met Coal Inc.",
+    "ticker": "HCC",
+    "sector": "energy"
+  },
+  {
+    "name": "CONSOL Energy Inc.",
+    "ticker": "CEIX",
+    "sector": "energy"
+  },
+  {
+    "name": "Alpha Metallurgical Resources Inc.",
+    "ticker": "AMR",
+    "sector": "energy"
+  },
+  {
+    "name": "Dakshana Foundation",
+    "ticker": "",
+    "sector": "non-profit"
+  },
+  {
+    "name": "Coca-Cola",
+    "ticker": "KO",
+    "sector": "consumer staples"
+  },
+  {
+    "name": "Pepsi",
+    "ticker": "PEP",
+    "sector": "consumer staples"
+  },
+  {
+    "name": "Coca-Cola Icecek",
+    "ticker": "COLA.IS",
+    "sector": "consumer staples"
+  },
+  {
+    "name": "Anadolu Efes",
+    "ticker": "AEFES.IS",
+    "sector": "consumer staples"
+  },
+  {
+    "name": "Varun",
+    "ticker": "VARUN.BO",
+    "sector": "consumer staples"
+  },
+  {
+    "name": "Reysas",
+    "ticker": "RYSAS.IS",
+    "sector": "industrials"
+  },
+  {
+    "name": "Fiat Chrysler",
+    "ticker": "FCAU",
+    "sector": "consumer discretionary"
+  },
+  {
+    "name": "Costco",
+    "ticker": "COST",
+    "sector": "consumer staples"
+  }
+]

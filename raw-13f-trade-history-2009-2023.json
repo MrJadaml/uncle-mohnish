@@ -1,0 +1,2471 @@
+{
+  "2023": [
+    {
+      "Quarter": "Q4 2023",
+      "Activities": [
+        {
+          "Company": "ARCH - Arch Resources Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "200.36%",
+          "Shares": "156,756",
+          "PortfolioChangePercentage": "10.49"
+        },
+        {
+          "Company": "HCC - Warrior Met Coal Inc.",
+          "Activity": "Buy",
+          "Shares": "629,712",
+          "PortfolioChangePercentage": "15.47"
+        },
+        {
+          "Company": "CEIX - CONSOL Energy Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "6.95%",
+          "Shares": "27,563",
+          "PortfolioChangePercentage": "1.12"
+        },
+        {
+          "Company": "AMR - Alpha Metallurgical Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "10.69%",
+          "Shares": "47,197",
+          "PortfolioChangePercentage": "6.45"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2023",
+      "Activities": [
+        {
+          "Company": "CEIX - CONSOL Energy Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "94.90%",
+          "Shares": "193,096",
+          "PortfolioChangePercentage": "11.94"
+        },
+        {
+          "Company": "AMR - Alpha Metallurgical Resources Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "21.75%",
+          "Shares": "78,861",
+          "PortfolioChangePercentage": "12.07"
+        },
+        {
+          "Company": "ARCH - Arch Resources Inc.",
+          "Activity": "Buy",
+          "Shares": "78,238",
+          "PortfolioChangePercentage": "7.87"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2023",
+      "Activities": [
+        {
+          "Company": "AMR - Alpha Metallurgical Resources Inc.",
+          "Activity": "Buy",
+          "Shares": "362,649",
+          "PortfolioChangePercentage": "81.20"
+        },
+        {
+          "Company": "CEIX - CONSOL Energy Inc.",
+          "Activity": "Buy",
+          "Shares": "203,474",
+          "PortfolioChangePercentage": "18.80"
+        },
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "1,592,134",
+          "PortfolioChangePercentage": "79.22"
+        },
+        {
+          "Company": "BN - Brookfield Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "772,579",
+          "PortfolioChangePercentage": "20.76"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "3,375",
+          "PortfolioChangePercentage": "0.02"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2023",
+      "Activities": [
+        {
+          "Company": "BN - Brookfield Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "8.46%",
+          "Shares": "60,260",
+          "PortfolioChangePercentage": "1.62"
+        },
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "14.44%",
+          "Shares": "268,678",
+          "PortfolioChangePercentage": "13.37"
+        },
+        {
+          "Company": "BAM - Brookfield Asset Management",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "178,077",
+          "PortfolioChangePercentage": "4.23"
+        }
+      ]
+    }
+  ],
+  "2022": [
+    {
+      "Quarter": "Q4 2022",
+      "Activities": [
+        {
+          "Company": "BN - Brookfield Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "295.07%",
+          "Shares": "532,016",
+          "PortfolioChangePercentage": "13.88"
+        },
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "2.03%",
+          "Shares": "37,000",
+          "PortfolioChangePercentage": "1.53"
+        },
+        {
+          "Company": "BAM - Brookfield Asset Management",
+          "Activity": "Buy",
+          "Shares": "178,077",
+          "PortfolioChangePercentage": "4.23"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2022",
+      "Activities": [
+        {
+          "Company": "BN - Brookfield Corp.",
+          "Activity": "Buy",
+          "Shares": "180,303",
+          "PortfolioChangePercentage": "7.46"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2022",
+      "Activities": [
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "81.71%",
+          "Shares": "15,076",
+          "PortfolioChangePercentage": "0.09"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2022",
+      "Activities": [
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "99.48%",
+          "Shares": "3,503,667",
+          "PortfolioChangePercentage": "30.38"
+        }
+      ]
+    }
+  ],
+  "2021": [
+    {
+      "Quarter": "Q4 2021",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "15.49%",
+          "Shares": "244,662",
+          "PortfolioChangePercentage": "10.52"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "25.59%",
+          "Shares": "1,211,000",
+          "PortfolioChangePercentage": "7.42"
+        },
+        {
+          "Company": "BABA - Alibaba Group Holdings",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "57,347",
+          "PortfolioChangePercentage": "4.45"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2021",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.75%",
+          "Shares": "27,150",
+          "PortfolioChangePercentage": "1.01"
+        },
+        {
+          "Company": "BABA - Alibaba Group Holdings",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "77.83%",
+          "Shares": "201,374",
+          "PortfolioChangePercentage": "15.63"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2021",
+      "Activities": [
+        {
+          "Company": "BABA - Alibaba Group Holdings",
+          "Activity": "Add",
+          "ShareChangePercentage": "53.23%",
+          "Shares": "89,878",
+          "PortfolioChangePercentage": "7.34"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2021",
+      "Activities": [
+        {
+          "Company": "BABA - Alibaba Group Holdings",
+          "Activity": "Buy",
+          "Shares": "168,843",
+          "PortfolioChangePercentage": "14.61"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.00%",
+          "Shares": "31",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "14.74%",
+          "Shares": "268,322",
+          "PortfolioChangePercentage": "9.03"
+        }
+      ]
+    }
+  ],
+  "2020": [
+    {
+      "Quarter": "Q4 2020",
+      "Activities": [
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.00%",
+          "Shares": "31",
+          "PortfolioChangePercentage": "0.00"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2020",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.00%",
+          "Shares": "74",
+          "PortfolioChangePercentage": "0.00"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2020",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.89%",
+          "Shares": "16,049",
+          "PortfolioChangePercentage": "0.56"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Buy",
+          "Shares": "4,733,118",
+          "PortfolioChangePercentage": "36.52"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "680,045",
+          "PortfolioChangePercentage": "6.05"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2020",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.31%",
+          "Shares": "23,877",
+          "PortfolioChangePercentage": "1.24"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "91.76%",
+          "Shares": "7,570,666",
+          "PortfolioChangePercentage": "67.35"
+        },
+        {
+          "Company": "EAF - GrafTech International Ltd.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "4,450,134",
+          "PortfolioChangePercentage": "19.07"
+        }
+      ]
+    }
+  ],
+  "2019": [
+    {
+      "Quarter": "Q4 2019",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.90%",
+          "Shares": "34,141",
+          "PortfolioChangePercentage": "0.68"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "5.79%",
+          "Shares": "506,752",
+          "PortfolioChangePercentage": "2.74"
+        },
+        {
+          "Company": "EAF - GrafTech International Ltd.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "19.78%",
+          "Shares": "1,096,967",
+          "PortfolioChangePercentage": "4.70"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2019",
+      "Activities": [
+        {
+          "Company": "EAF - GrafTech International Ltd.",
+          "Activity": "Add",
+          "ShareChangePercentage": "34.52%",
+          "Shares": "1,423,563",
+          "PortfolioChangePercentage": "6.97"
+        },
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.46%",
+          "Shares": "8,190",
+          "PortfolioChangePercentage": "0.13"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "31.93%",
+          "Shares": "4,108,584",
+          "PortfolioChangePercentage": "20.36"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2019",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "5.09%",
+          "Shares": "86,480",
+          "PortfolioChangePercentage": "1.13"
+        },
+        {
+          "Company": "EAF - GrafTech International Ltd.",
+          "Activity": "Buy",
+          "Shares": "4,123,538",
+          "PortfolioChangePercentage": "16.12"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.82%",
+          "Shares": "239,000",
+          "PortfolioChangePercentage": "1.12"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2019",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "210.74%",
+          "Shares": "1,152,418",
+          "PortfolioChangePercentage": "17.99"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.05%",
+          "Shares": "6,657",
+          "PortfolioChangePercentage": "0.04"
+        }
+      ]
+    }
+  ],
+  "2018": [
+    {
+      "Quarter": "Q4 2018",
+      "Activities": [
+        {
+          "Company": "MU - Micron Technology Inc.",
+          "Activity": "Buy",
+          "Shares": "546,847",
+          "PortfolioChangePercentage": "8.39"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.08%",
+          "Shares": "10,920",
+          "PortfolioChangePercentage": "0.08"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2018",
+      "Activities": [
+        {
+          "Company": "RACE - Ferrari NV",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "398,138",
+          "PortfolioChangePercentage": "17.94"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2018",
+      "Activities": [
+        {
+          "Company": "GOOG - Alphabet Inc. CL C",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "916,560",
+          "PortfolioChangePercentage": "12.43"
+        },
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "807,721",
+          "PortfolioChangePercentage": "11.01"
+        },
+        {
+          "Company": "LUV - Southwest Airlines",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "300,975",
+          "PortfolioChangePercentage": "5.11"
+        }
+      ]
+    }
+  ],
+  "2017": [
+    {
+      "Quarter": "Q4 2017",
+      "Activities": [
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "22.87%",
+          "Shares": "239,439",
+          "PortfolioChangePercentage": "3.26"
+        },
+        {
+          "Company": "GOOG - Alphabet Inc. CL C",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "30.80%",
+          "Shares": "408,000",
+          "PortfolioChangePercentage": "5.53"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2017",
+      "Activities": [
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "4.72%",
+          "Shares": "47,225",
+          "PortfolioChangePercentage": "0.58"
+        },
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "6,079,051",
+          "PortfolioChangePercentage": "26.13"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2017",
+      "Activities": [
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "22.06%",
+          "Shares": "180,750",
+          "PortfolioChangePercentage": "2.08"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.45%",
+          "Shares": "187,180",
+          "PortfolioChangePercentage": "0.49"
+        },
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.42%",
+          "Shares": "25,229",
+          "PortfolioChangePercentage": "0.11"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "27,002",
+          "PortfolioChangePercentage": "0.30"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2017",
+      "Activities": [
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "21.96%",
+          "Shares": "147,500",
+          "PortfolioChangePercentage": "1.74"
+        },
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Add",
+          "ShareChangePercentage": "8.51%",
+          "Shares": "474,985",
+          "PortfolioChangePercentage": "2.18"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "7.94%",
+          "Shares": "950,200",
+          "PortfolioChangePercentage": "2.67"
+        },
+        {
+          "Company": "GOOG - Alphabet Inc. CL C",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "4.28%",
+          "Shares": "59,200",
+          "PortfolioChangePercentage": "0.63"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "94.90%",
+          "Shares": "502,111",
+          "PortfolioChangePercentage": "5.58"
+        }
+      ]
+    }
+  ],
+  "2016": [
+    {
+      "Quarter": "Q4 2016",
+      "Activities": [
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Add",
+          "ShareChangePercentage": "7.61%",
+          "Shares": "47,525",
+          "PortfolioChangePercentage": "0.57"
+        },
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "6.78%",
+          "Shares": "405,610",
+          "PortfolioChangePercentage": "2.01"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "13.07%",
+          "Shares": "1,800,000",
+          "PortfolioChangePercentage": "4.73"
+        },
+        {
+          "Company": "RACE - Ferrari NV",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "41.03%",
+          "Shares": "277,000",
+          "PortfolioChangePercentage": "4.65"
+        },
+        {
+          "Company": "LUV - Southwest Airlines",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "41.24%",
+          "Shares": "211,245",
+          "PortfolioChangePercentage": "3.03"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "47,400",
+          "PortfolioChangePercentage": "2.03"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2016",
+      "Activities": [
+        {
+          "Company": "LUV - Southwest Airlines",
+          "Activity": "Buy",
+          "Shares": "512,220",
+          "PortfolioChangePercentage": "5.89"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.09%",
+          "Shares": "13,000",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "34.62%",
+          "Shares": "25,100",
+          "PortfolioChangePercentage": "1.07"
+        },
+        {
+          "Company": "RACE - Ferrari NV",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "36.85%",
+          "Shares": "393,900",
+          "PortfolioChangePercentage": "6.05"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2016",
+      "Activities": [
+        {
+          "Company": "AER - AerCap Holdings N.V.",
+          "Activity": "Buy",
+          "Shares": "624,160",
+          "PortfolioChangePercentage": "7.08"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.01%",
+          "Shares": "6",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.01%",
+          "Shares": "1,000",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.03%",
+          "Shares": "2,001",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.29%",
+          "Shares": "1,540",
+          "PortfolioChangePercentage": "0.03"
+        },
+        {
+          "Company": "RACE - Ferrari NV",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "16.30%",
+          "Shares": "208,154",
+          "PortfolioChangePercentage": "2.86"
+        },
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "990,534",
+          "PortfolioChangePercentage": "3.01"
+        },
+        {
+          "Company": "NXEO - Nexeo Solutions Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "35,890",
+          "PortfolioChangePercentage": "0.10"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2016",
+      "Activities": [
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Add",
+          "ShareChangePercentage": "10.63%",
+          "Shares": "95,160",
+          "PortfolioChangePercentage": "0.29"
+        },
+        {
+          "Company": "RACE - Ferrari NV",
+          "Activity": "Buy",
+          "Shares": "1,277,192",
+          "PortfolioChangePercentage": "15.39"
+        },
+        {
+          "Company": "SRG - Seritage Growth Properties",
+          "Activity": "Buy",
+          "Shares": "530,653",
+          "PortfolioChangePercentage": "7.68"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.01%",
+          "Shares": "1,990",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "16.67%",
+          "Shares": "14,500",
+          "PortfolioChangePercentage": "0.60"
+        },
+        {
+          "Company": "NXEO - Nexeo Solutions Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "85.52%",
+          "Shares": "211,980",
+          "PortfolioChangePercentage": "0.59"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "6,333,296",
+          "PortfolioChangePercentage": "3.43"
+        }
+      ]
+    }
+  ],
+  "2015": [
+    {
+      "Quarter": "Q4 2015",
+      "Activities": [
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Buy",
+          "Shares": "87,006",
+          "PortfolioChangePercentage": "3.03"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.05%",
+          "Shares": "7,000",
+          "PortfolioChangePercentage": "0.03"
+        },
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.07%",
+          "Shares": "4,299",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "NXEO - Nexeo Solutions Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "20.14%",
+          "Shares": "62,516",
+          "PortfolioChangePercentage": "0.16"
+        },
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "39.72%",
+          "Shares": "589,914",
+          "PortfolioChangePercentage": "1.59"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "982,280",
+          "PortfolioChangePercentage": "9.12"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2015",
+      "Activities": [
+        {
+          "Company": "GM.WS.B - General Motors WTS B",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.03%",
+          "Shares": "1,770",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.04%",
+          "Shares": "5,300",
+          "PortfolioChangePercentage": "0.02"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2015",
+      "Activities": [
+        {
+          "Company": "GOOG - Alphabet Inc. CL C",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.27%",
+          "Shares": "3,760",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.01%",
+          "Shares": "100",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.14%",
+          "Shares": "1,400",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "53,000",
+          "PortfolioChangePercentage": "0.65"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2015",
+      "Activities": [
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Add",
+          "ShareChangePercentage": "227.47%",
+          "Shares": "1,031,650",
+          "PortfolioChangePercentage": "2.58"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Add",
+          "ShareChangePercentage": "225.97%",
+          "Shares": "681,910",
+          "PortfolioChangePercentage": "8.91"
+        },
+        {
+          "Company": "NXEO - Nexeo Solutions Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "26.34%",
+          "Shares": "64,716",
+          "PortfolioChangePercentage": "0.15"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.78%",
+          "Shares": "108,349",
+          "PortfolioChangePercentage": "0.42"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "95.82%",
+          "Shares": "1,216,000",
+          "PortfolioChangePercentage": "14.91"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "3,146,000",
+          "PortfolioChangePercentage": "12.47"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "7,025",
+          "PortfolioChangePercentage": "0.23"
+        },
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "23,762",
+          "PortfolioChangePercentage": "0.18"
+        }
+      ]
+    }
+  ],
+  "2014": [
+    {
+      "Quarter": "Q4 2014",
+      "Activities": [
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Add",
+          "ShareChangePercentage": "2982.99%",
+          "Shares": "438,827",
+          "PortfolioChangePercentage": "1.13"
+        },
+        {
+          "Company": "NXEO - Nexeo Solutions Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "497.10%",
+          "Shares": "204,526",
+          "PortfolioChangePercentage": "0.47"
+        },
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.96%",
+          "Shares": "457",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "STLA - Stellantis N.V.",
+          "Activity": "Buy",
+          "Shares": "13,908,569",
+          "PortfolioChangePercentage": "35.67"
+        },
+        {
+          "Company": "GOOG - Alphabet Inc. CL C",
+          "Activity": "Buy",
+          "Shares": "1,380,000",
+          "PortfolioChangePercentage": "8.04"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "10.63%",
+          "Shares": "151,000",
+          "PortfolioChangePercentage": "1.81"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "30.15%",
+          "Shares": "1,358,000",
+          "PortfolioChangePercentage": "5.38"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "67.64%",
+          "Shares": "630,864",
+          "PortfolioChangePercentage": "8.91"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2014",
+      "Activities": [
+        {
+          "Company": "NXEO - Nexeo Solutions Inc.",
+          "Activity": "Buy",
+          "Shares": "41,144",
+          "PortfolioChangePercentage": "0.12"
+        },
+        {
+          "Company": "NXEOU - Nexeo Solutions Inc. UN",
+          "Activity": "Buy",
+          "Shares": "14,711",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "4.60%",
+          "Shares": "45,000",
+          "PortfolioChangePercentage": "1.04"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "7.61%",
+          "Shares": "371,000",
+          "PortfolioChangePercentage": "1.93"
+        },
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "3,340",
+          "PortfolioChangePercentage": "5.60"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "106,863",
+          "PortfolioChangePercentage": "4.83"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2014",
+      "Activities": [
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Buy",
+          "Shares": "977,634",
+          "PortfolioChangePercentage": "19.64"
+        },
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "79.53%",
+          "Shares": "12,973",
+          "PortfolioChangePercentage": "21.75"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2014",
+      "Activities": [
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Buy",
+          "Shares": "7,025",
+          "PortfolioChangePercentage": "0.24"
+        },
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Buy",
+          "Shares": "23,305",
+          "PortfolioChangePercentage": "0.22"
+        },
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.17%",
+          "Shares": "28",
+          "PortfolioChangePercentage": "0.04"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "8.97%",
+          "Shares": "140,000",
+          "PortfolioChangePercentage": "1.85"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "34.13%",
+          "Shares": "2,526,000",
+          "PortfolioChangePercentage": "12.04"
+        }
+      ]
+    }
+  ],
+  "2013": [
+    {
+      "Quarter": "Q4 2013",
+      "Activities": [
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "24.92%",
+          "Shares": "1,263,296",
+          "PortfolioChangePercentage": "5.03"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.35%",
+          "Shares": "101,000",
+          "PortfolioChangePercentage": "0.39"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "24.67%",
+          "Shares": "35,000",
+          "PortfolioChangePercentage": "1.53"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2013",
+      "Activities": [
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "141.97%",
+          "Shares": "2,974,719",
+          "PortfolioChangePercentage": "11.75"
+        },
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.68%",
+          "Shares": "269",
+          "PortfolioChangePercentage": "0.34"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2013",
+      "Activities": [
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.85%",
+          "Shares": "291",
+          "PortfolioChangePercentage": "0.44"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "13.67%",
+          "Shares": "247,000",
+          "PortfolioChangePercentage": "4.05"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "27.94%",
+          "Shares": "55,000",
+          "PortfolioChangePercentage": "3.00"
+        },
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "2,083,750",
+          "PortfolioChangePercentage": "18.91"
+        }
+      ]
+    }
+  ],
+  "2012": [
+    {
+      "Quarter": "Q4 2012",
+      "Activities": [
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "13.87%",
+          "Shares": "255,181",
+          "PortfolioChangePercentage": "0.82"
+        },
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Add",
+          "ShareChangePercentage": "5.77%",
+          "Shares": "860",
+          "PortfolioChangePercentage": "0.90"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.01%",
+          "Shares": "2,000",
+          "PortfolioChangePercentage": "0.08"
+        },
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "8.75%",
+          "Shares": "199,900",
+          "PortfolioChangePercentage": "1.81"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2012",
+      "Activities": [
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Add",
+          "ShareChangePercentage": "196.90%",
+          "Shares": "9,894",
+          "PortfolioChangePercentage": "13.65"
+        },
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Add",
+          "ShareChangePercentage": "2.09%",
+          "Shares": "46,650",
+          "PortfolioChangePercentage": "0.39"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.03%",
+          "Shares": "510",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "60.71%",
+          "Shares": "307,267",
+          "PortfolioChangePercentage": "12.78"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2012",
+      "Activities": [
+        {
+          "Company": "GM - General Motors",
+          "Activity": "Buy",
+          "Shares": "2,237,000",
+          "PortfolioChangePercentage": "18.34"
+        },
+        {
+          "Company": "CHK - Chesapeake Energy",
+          "Activity": "Buy",
+          "Shares": "5,025",
+          "PortfolioChangePercentage": "7.77"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "2,214,460",
+          "PortfolioChangePercentage": "15.34"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "793,000",
+          "PortfolioChangePercentage": "11.16"
+        },
+        {
+          "Company": "CSE - CapitalSource Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "2,162,900",
+          "PortfolioChangePercentage": "4.40"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "1,964,185",
+          "PortfolioChangePercentage": "0.82"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2012",
+      "Activities": [
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "257.13%",
+          "Shares": "1,301,386",
+          "PortfolioChangePercentage": "14.64"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "251.22%",
+          "Shares": "5,366,014",
+          "PortfolioChangePercentage": "15.81"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Add",
+          "ShareChangePercentage": "135.64%",
+          "Shares": "291,344",
+          "PortfolioChangePercentage": "11.16"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.38%",
+          "Shares": "3,000",
+          "PortfolioChangePercentage": "0.04"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.80%",
+          "Shares": "14,901",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.09%",
+          "Shares": "21,717",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "CSE - CapitalSource Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.15%",
+          "Shares": "25,241",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "2.32%",
+          "Shares": "52,652",
+          "PortfolioChangePercentage": "0.36"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "1,387,001",
+          "PortfolioChangePercentage": "16.23"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "444,941",
+          "PortfolioChangePercentage": "14.41"
+        },
+        {
+          "Company": "DTV - DIRECTV Group Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "398,341",
+          "PortfolioChangePercentage": "7.23"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "302,376",
+          "PortfolioChangePercentage": "1.46"
+        },
+        {
+          "Company": "BRP - BRP Group Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "226,155",
+          "PortfolioChangePercentage": "0.75"
+        }
+      ]
+    }
+  ],
+  "2011": [
+    {
+      "Quarter": "Q4 2011",
+      "Activities": [
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Add",
+          "ShareChangePercentage": "4599.92%",
+          "Shares": "435,474",
+          "PortfolioChangePercentage": "14.10"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "36.65%",
+          "Shares": "497,503",
+          "PortfolioChangePercentage": "1.90"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Add",
+          "ShareChangePercentage": "13.22%",
+          "Shares": "161,900",
+          "PortfolioChangePercentage": "1.89"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Buy",
+          "Shares": "2,267,112",
+          "PortfolioChangePercentage": "13.00"
+        },
+        {
+          "Company": "DTV - DIRECTV Group Inc.",
+          "Activity": "Buy",
+          "Shares": "398,341",
+          "PortfolioChangePercentage": "7.23"
+        },
+        {
+          "Company": "C - Citigroup Inc.",
+          "Activity": "Buy",
+          "Shares": "506,124",
+          "PortfolioChangePercentage": "5.65"
+        },
+        {
+          "Company": "BRP - BRP Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "6.38%",
+          "Shares": "15,418",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "CSE - CapitalSource Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "22.22%",
+          "Shares": "625,000",
+          "PortfolioChangePercentage": "1.78"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "25.92%",
+          "Shares": "75,147",
+          "PortfolioChangePercentage": "2.89"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "69.72%",
+          "Shares": "4,917,565",
+          "PortfolioChangePercentage": "11.60"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "70.58%",
+          "Shares": "725,511",
+          "PortfolioChangePercentage": "3.50"
+        },
+        {
+          "Company": "BIP - Brookfield Infrastructure Partners",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "2,651,940",
+          "PortfolioChangePercentage": "16.68"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "2,359,215",
+          "PortfolioChangePercentage": "12.59"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "134,347",
+          "PortfolioChangePercentage": "0.23"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "13,876",
+          "PortfolioChangePercentage": "0.18"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "4,301",
+          "PortfolioChangePercentage": "0.13"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2011",
+      "Activities": [
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Add",
+          "ShareChangePercentage": "227.20%",
+          "Shares": "850,686",
+          "PortfolioChangePercentage": "7.95"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Add",
+          "ShareChangePercentage": "25.60%",
+          "Shares": "59,098",
+          "PortfolioChangePercentage": "2.17"
+        },
+        {
+          "Company": "BAC - Bank of America Corp.",
+          "Activity": "Buy",
+          "Shares": "7,053,551",
+          "PortfolioChangePercentage": "16.73"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.00%",
+          "Shares": "51",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "BIP - Brookfield Infrastructure Partners",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.10%",
+          "Shares": "2,700",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "4.05%",
+          "Shares": "400",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "19.99%",
+          "Shares": "198,854",
+          "PortfolioChangePercentage": "3.33"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "20.09%",
+          "Shares": "258,474",
+          "PortfolioChangePercentage": "1.08"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "22.27%",
+          "Shares": "3,975",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "89.13%",
+          "Shares": "1,101,589",
+          "PortfolioChangePercentage": "1.89"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "93.92%",
+          "Shares": "66,400",
+          "PortfolioChangePercentage": "2.01"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2011",
+      "Activities": [
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Add",
+          "ShareChangePercentage": "198.91%",
+          "Shares": "6,566",
+          "PortfolioChangePercentage": "0.19"
+        },
+        {
+          "Company": "GS - Goldman Sachs Group",
+          "Activity": "Add",
+          "ShareChangePercentage": "108.21%",
+          "Shares": "119,971",
+          "PortfolioChangePercentage": "5.83"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Add",
+          "ShareChangePercentage": "9.95%",
+          "Shares": "6,400",
+          "PortfolioChangePercentage": "0.25"
+        },
+        {
+          "Company": "BRP - BRP Group Inc.",
+          "Activity": "Buy",
+          "Shares": "241,573",
+          "PortfolioChangePercentage": "0.87"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Buy",
+          "Shares": "17,850",
+          "PortfolioChangePercentage": "0.29"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "12.86%",
+          "Shares": "182,464",
+          "PortfolioChangePercentage": "0.46"
+        },
+        {
+          "Company": "ICO - International Coal Group Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "2,483,970",
+          "PortfolioChangePercentage": "9.13"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "345,186",
+          "PortfolioChangePercentage": "4.16"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2011",
+      "Activities": [
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.63%",
+          "Shares": "2,357",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.01%",
+          "Shares": "133",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.90%",
+          "Shares": "9,000",
+          "PortfolioChangePercentage": "0.17"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "6.21%",
+          "Shares": "85,105",
+          "PortfolioChangePercentage": "0.50"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "33.47%",
+          "Shares": "713,601",
+          "PortfolioChangePercentage": "1.96"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "34.97%",
+          "Shares": "185,590",
+          "PortfolioChangePercentage": "2.24"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "69.85%",
+          "Shares": "149,000",
+          "PortfolioChangePercentage": "5.54"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "228,005",
+          "PortfolioChangePercentage": "3.39"
+        },
+        {
+          "Company": "TECK - Teck Resources",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "5,501",
+          "PortfolioChangePercentage": "0.10"
+        }
+      ]
+    }
+  ],
+  "2010": [
+    {
+      "Quarter": "Q4 2010",
+      "Activities": [
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Add",
+          "ShareChangePercentage": "167.44%",
+          "Shares": "133,544",
+          "PortfolioChangePercentage": "4.40"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.90%",
+          "Shares": "9,000",
+          "PortfolioChangePercentage": "0.14"
+        },
+        {
+          "Company": "BIP - Brookfield Infrastructure Partners",
+          "Activity": "Buy",
+          "Shares": "2,654,640",
+          "PortfolioChangePercentage": "11.39"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.01%",
+          "Shares": "133",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.07%",
+          "Shares": "1,000",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.65%",
+          "Shares": "13,000",
+          "PortfolioChangePercentage": "0.03"
+        },
+        {
+          "Company": "ICO - International Coal Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "2.30%",
+          "Shares": "58,500",
+          "PortfolioChangePercentage": "0.14"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "3.39%",
+          "Shares": "13,057",
+          "PortfolioChangePercentage": "0.12"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "4.67%",
+          "Shares": "26,000",
+          "PortfolioChangePercentage": "0.25"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "20.23%",
+          "Shares": "347,911",
+          "PortfolioChangePercentage": "2.02"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "43.40%",
+          "Shares": "1,635,009",
+          "PortfolioChangePercentage": "3.95"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "75.83%",
+          "Shares": "715,271",
+          "PortfolioChangePercentage": "10.63"
+        },
+        {
+          "Company": "JEF - Jefferies Financial Group Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "749,605",
+          "PortfolioChangePercentage": "6.04"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2010",
+      "Activities": [
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "4.90%",
+          "Shares": "26,000",
+          "PortfolioChangePercentage": "0.20"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Add",
+          "ShareChangePercentage": "2.86%",
+          "Shares": "10,700",
+          "PortfolioChangePercentage": "0.09"
+        },
+        {
+          "Company": "ICO - International Coal Group Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "2.25%",
+          "Shares": "56,000",
+          "PortfolioChangePercentage": "0.10"
+        },
+        {
+          "Company": "PKX - POSCO",
+          "Activity": "Buy",
+          "Shares": "79,757",
+          "PortfolioChangePercentage": "3.10"
+        },
+        {
+          "Company": "TECK - Teck Resources",
+          "Activity": "Buy",
+          "Shares": "5,501",
+          "PortfolioChangePercentage": "0.08"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.20%",
+          "Shares": "4,000",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "3.24%",
+          "Shares": "33,300",
+          "PortfolioChangePercentage": "0.55"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "8.33%",
+          "Shares": "300",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "10.51%",
+          "Shares": "442,377",
+          "PortfolioChangePercentage": "0.92"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "16.02%",
+          "Shares": "179,899",
+          "PortfolioChangePercentage": "2.56"
+        },
+        {
+          "Company": "FRFHF - Fairfax Financial Holdings Ltd.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "97,106",
+          "PortfolioChangePercentage": "13.54"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2010",
+      "Activities": [
+        {
+          "Company": "FRFHF - Fairfax Financial Holdings Ltd.",
+          "Activity": "Add",
+          "ShareChangePercentage": "20.05%",
+          "Shares": "16,220",
+          "PortfolioChangePercentage": "2.26"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "3.35%",
+          "Shares": "33,345",
+          "PortfolioChangePercentage": "0.36"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Add",
+          "Shares": "100",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "CSE - CapitalSource Inc.",
+          "Activity": "Add",
+          "Shares": "140",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.02%",
+          "Shares": "100",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "ICO - International Coal Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.04%",
+          "Shares": "26,100",
+          "PortfolioChangePercentage": "0.04"
+        },
+        {
+          "Company": "JEF - Jefferies Financial Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "5.24%",
+          "Shares": "41,469",
+          "PortfolioChangePercentage": "0.30"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "5.85%",
+          "Shares": "69,780",
+          "PortfolioChangePercentage": "0.77"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "21.77%",
+          "Shares": "1,171,575",
+          "PortfolioChangePercentage": "2.10"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "98.87%",
+          "Shares": "316,250",
+          "PortfolioChangePercentage": "9.66"
+        },
+        {
+          "Company": "IBKR - Interactive Brokers Group Inc.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "94,104",
+          "PortfolioChangePercentage": "0.46"
+        },
+        {
+          "Company": "TECK - Teck Resources",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "5,501",
+          "PortfolioChangePercentage": "0.07"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2010",
+      "Activities": [
+        {
+          "Company": "FRFHF - Fairfax Financial Holdings Ltd.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.34%",
+          "Shares": "275",
+          "PortfolioChangePercentage": "0.03"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Add",
+          "Shares": "100",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "ICO - International Coal Group Inc.",
+          "Activity": "Buy",
+          "Shares": "2,512,570",
+          "PortfolioChangePercentage": "3.45"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.00%",
+          "Shares": "101",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.02%",
+          "Shares": "49",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "CSE - CapitalSource Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.18%",
+          "Shares": "5,140",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "ATSG - Air Transport Services Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.24%",
+          "Shares": "13,000",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.25%",
+          "Shares": "5,000",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "2.03%",
+          "Shares": "20,610",
+          "PortfolioChangePercentage": "0.25"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "14.74%",
+          "Shares": "206,179",
+          "PortfolioChangePercentage": "1.87"
+        },
+        {
+          "Company": "TECK - Teck Resources",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "99.45%",
+          "Shares": "1,001,000",
+          "PortfolioChangePercentage": "12.74"
+        }
+      ]
+    }
+  ],
+  "2009": [
+    {
+      "Quarter": "Q4 2009",
+      "Activities": [
+        {
+          "Company": "FRFHF - Fairfax Financial Holdings Ltd.",
+          "Activity": "Add",
+          "ShareChangePercentage": "17.15%",
+          "Shares": "11,799",
+          "PortfolioChangePercentage": "1.29"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "5.30%",
+          "Shares": "86,566",
+          "PortfolioChangePercentage": "0.39"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "4.45%",
+          "Shares": "43,245",
+          "PortfolioChangePercentage": "0.49"
+        },
+        {
+          "Company": "CSE - CapitalSource Inc.",
+          "Activity": "Buy",
+          "Shares": "2,818,141",
+          "PortfolioChangePercentage": "3.49"
+        },
+        {
+          "Company": "JEF - Jefferies Financial Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.03%",
+          "Shares": "238",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.06%",
+          "Shares": "1,500",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.37%",
+          "Shares": "5,000",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "IBKR - Interactive Brokers Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.95%",
+          "Shares": "900",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.04%",
+          "Shares": "14,668",
+          "PortfolioChangePercentage": "0.10"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.54%",
+          "Shares": "5,000",
+          "PortfolioChangePercentage": "0.10"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "4.93%",
+          "Shares": "104,152",
+          "PortfolioChangePercentage": "0.22"
+        },
+        {
+          "Company": "TX - Ternium S.A.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "1,126,331",
+          "PortfolioChangePercentage": "9.28"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q3 2009",
+      "Activities": [
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "110.78%",
+          "Shares": "510,954",
+          "PortfolioChangePercentage": "4.76"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Add",
+          "ShareChangePercentage": "26.27%",
+          "Shares": "110,426",
+          "PortfolioChangePercentage": "0.71"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Add",
+          "ShareChangePercentage": "11.11%",
+          "Shares": "236,099",
+          "PortfolioChangePercentage": "0.82"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.28%",
+          "Shares": "4,714",
+          "PortfolioChangePercentage": "0.04"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.03%",
+          "Shares": "3,300",
+          "PortfolioChangePercentage": "0.07"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.77%",
+          "Shares": "12,500",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "IBKR - Interactive Brokers Group Inc.",
+          "Activity": "Buy",
+          "Shares": "95,004",
+          "PortfolioChangePercentage": "0.58"
+        },
+        {
+          "Company": "JEF - Jefferies Financial Group Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.34%",
+          "Shares": "2,660",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.51%",
+          "Shares": "7,250",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "22.68%",
+          "Shares": "619,634",
+          "PortfolioChangePercentage": "1.29"
+        },
+        {
+          "Company": "TX - Ternium S.A.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "36.85%",
+          "Shares": "657,313",
+          "PortfolioChangePercentage": "5.42"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q2 2009",
+      "Activities": [
+        {
+          "Company": "FRFHF - Fairfax Financial Holdings Ltd.",
+          "Activity": "Add",
+          "ShareChangePercentage": "49.49%",
+          "Shares": "22,780",
+          "PortfolioChangePercentage": "2.42"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "12.59%",
+          "Shares": "181,180",
+          "PortfolioChangePercentage": "0.73"
+        },
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Add",
+          "ShareChangePercentage": "9.24%",
+          "Shares": "27,200",
+          "PortfolioChangePercentage": "0.67"
+        },
+        {
+          "Company": "JEF - Jefferies Financial Group Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "1.86%",
+          "Shares": "14,500",
+          "PortfolioChangePercentage": "0.13"
+        },
+        {
+          "Company": "BPO - Brookfield Office Properties",
+          "Activity": "Buy",
+          "Shares": "2,124,668",
+          "PortfolioChangePercentage": "7.22"
+        },
+        {
+          "Company": "TEX - Terex Corp.",
+          "Activity": "Buy",
+          "Shares": "420,350",
+          "PortfolioChangePercentage": "2.16"
+        },
+        {
+          "Company": "TX - Ternium S.A.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.02%",
+          "Shares": "300",
+          "PortfolioChangePercentage": "0.00"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.18%",
+          "Shares": "2,625",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.26%",
+          "Shares": "1,200",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.26%",
+          "Shares": "3,500",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "TECK - Teck Resources",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.30%",
+          "Shares": "3,000",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.35%",
+          "Shares": "1,300",
+          "PortfolioChangePercentage": "0.01"
+        },
+        {
+          "Company": "SHLDQ-OLD - Sears Holdings Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "69,001",
+          "PortfolioChangePercentage": "2.32"
+        },
+        {
+          "Company": "BRK.A - Berkshire Hathaway CL A",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "1",
+          "PortfolioChangePercentage": "0.06"
+        }
+      ]
+    },
+    {
+      "Quarter": "Q1 2009",
+      "Activities": [
+        {
+          "Company": "BRK.B - Berkshire Hathaway CL B",
+          "Activity": "Add",
+          "ShareChangePercentage": "2218.11%",
+          "Shares": "281,700",
+          "PortfolioChangePercentage": "11.69"
+        },
+        {
+          "Company": "CRESY - Cresud Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "123.67%",
+          "Shares": "795,723",
+          "PortfolioChangePercentage": "4.25"
+        },
+        {
+          "Company": "TECK - Teck Resources",
+          "Activity": "Add",
+          "ShareChangePercentage": "3.29%",
+          "Shares": "32,200",
+          "PortfolioChangePercentage": "0.13"
+        },
+        {
+          "Company": "JEF - Jefferies Financial Group Inc.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.62%",
+          "Shares": "4,800",
+          "PortfolioChangePercentage": "0.05"
+        },
+        {
+          "Company": "TX - Ternium S.A.",
+          "Activity": "Add",
+          "ShareChangePercentage": "0.28%",
+          "Shares": "5,000",
+          "PortfolioChangePercentage": "0.03"
+        },
+        {
+          "Company": "WFC - Wells Fargo",
+          "Activity": "Buy",
+          "Shares": "371,001",
+          "PortfolioChangePercentage": "3.89"
+        },
+        {
+          "Company": "HNR - Harvest Natural Resources Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.32%",
+          "Shares": "4,500",
+          "PortfolioChangePercentage": "0.04"
+        },
+        {
+          "Company": "PNCL - Pinnacle Airlines Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "0.69%",
+          "Shares": "19,000",
+          "PortfolioChangePercentage": "0.02"
+        },
+        {
+          "Company": "POT - Potash Corp. of Saskatchewan Inc.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "1.89%",
+          "Shares": "8,910",
+          "PortfolioChangePercentage": "0.18"
+        },
+        {
+          "Company": "FRFHF - Fairfax Financial Holdings Ltd.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "20.64%",
+          "Shares": "11,969",
+          "PortfolioChangePercentage": "2.29"
+        },
+        {
+          "Company": "ZINC - Horsehead Holding Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "21.87%",
+          "Shares": "382,636",
+          "PortfolioChangePercentage": "1.55"
+        },
+        {
+          "Company": "SHLDQ-OLD - Sears Holdings Corp.",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "83.61%",
+          "Shares": "351,946",
+          "PortfolioChangePercentage": "11.83"
+        },
+        {
+          "Company": "BRK.A - Berkshire Hathaway CL A",
+          "Activity": "Reduce",
+          "ShareChangePercentage": "93.75%",
+          "Shares": "15",
+          "PortfolioChangePercentage": "0.90"
+        },
+        {
+          "Company": "CCRT - CompuCredit Holdings Corp.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "324,152",
+          "PortfolioChangePercentage": "1.29"
+        },
+        {
+          "Company": "CRYP-OLD - CryptoLogic Ltd.",
+          "Activity": "Sell",
+          "ShareChangePercentage": "100.00%",
+          "Shares": "144,695",
+          "PortfolioChangePercentage": "0.24"
+        }
+      ]
+    }
+  ]
+}
